@@ -3,7 +3,7 @@
 	url = http://github.com/tpope/vim-fugitive.git
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
-	url = https://github.com/msanders/snipmate.vim.git
+	url = git@github.com:NamelessOne2345/snipmate.vim.git
 [submodule "bundle/surround"]
 	path = bundle/surround
 	url = https://github.com/tpope/vim-surround.git
