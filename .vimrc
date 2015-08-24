@@ -232,7 +232,7 @@ set incsearch               " Incrementally search while typing a /regex
 
 """" Display
 if has("gui_running")
-    colorscheme burnttoast256
+    colorscheme solarized
     " Remove menu bar
     set guioptions-=m
 
@@ -241,7 +241,7 @@ if has("gui_running")
 else
     set t_Co=256
     set mouse=a
-    colorscheme burnttoast256
+    colorscheme solarized
 endif
 
 " Paste from clipboard
