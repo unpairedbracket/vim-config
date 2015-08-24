@@ -304,3 +304,5 @@ if filereadable($VIRTUAL_ENV . '/.vimrc')
 endif
 
 set colorcolumn=79
+let g:mma_highlight_option = "solarized"
+let g:mma_candy = 1

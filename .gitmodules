@@ -50,9 +50,9 @@
 	path = bundle/nerdtree
 	url = git@github.com:vim-scripts/The-NERD-tree.git
     ignore = untracked
-[submodule "bundle/ropevim"]
-	path = bundle/ropevim
-	url = git@github.com:python-rope/ropevim.git
 [submodule "bundle/project-manager"]
 	path = bundle/project-manager
 	url = git@github.com:unpairedbracket/vim-project-manager.git
+[submodule "bundle/vim-mathematica"]
+	path = bundle/vim-mathematica
+	url = git@github.com:rsmenon/vim-mathematica.git
